@@ -1,0 +1,7 @@
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\Aula03\TabuadaDo2\bin\Debug\TabuadaDo2.exe.config
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\Aula03\TabuadaDo2\bin\Debug\TabuadaDo2.exe
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\Aula03\TabuadaDo2\bin\Debug\TabuadaDo2.pdb
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\Aula03\TabuadaDo2\obj\Debug\TabuadaDo2.csproj.AssemblyReference.cache
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\Aula03\TabuadaDo2\obj\Debug\TabuadaDo2.csproj.CoreCompileInputs.cache
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\Aula03\TabuadaDo2\obj\Debug\TabuadaDo2.exe
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\Aula03\TabuadaDo2\obj\Debug\TabuadaDo2.pdb

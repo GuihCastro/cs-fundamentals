@@ -1,0 +1,7 @@
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\Aula00\InterfaceVS2022\bin\Debug\InterfaceVS2022.exe.config
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\Aula00\InterfaceVS2022\bin\Debug\InterfaceVS2022.exe
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\Aula00\InterfaceVS2022\bin\Debug\InterfaceVS2022.pdb
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\Aula00\InterfaceVS2022\obj\Debug\InterfaceVS2022.csproj.AssemblyReference.cache
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\Aula00\InterfaceVS2022\obj\Debug\InterfaceVS2022.csproj.CoreCompileInputs.cache
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\Aula00\InterfaceVS2022\obj\Debug\InterfaceVS2022.exe
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\Aula00\InterfaceVS2022\obj\Debug\InterfaceVS2022.pdb
