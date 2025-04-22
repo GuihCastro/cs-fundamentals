@@ -1,0 +1,7 @@
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\Aula07\AreaDoTriangulo\bin\Debug\AreaDoTriangulo.exe.config
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\Aula07\AreaDoTriangulo\bin\Debug\AreaDoTriangulo.exe
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\Aula07\AreaDoTriangulo\bin\Debug\AreaDoTriangulo.pdb
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\Aula07\AreaDoTriangulo\obj\Debug\AreaDoTriangulo.csproj.AssemblyReference.cache
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\Aula07\AreaDoTriangulo\obj\Debug\AreaDoTriangulo.csproj.CoreCompileInputs.cache
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\Aula07\AreaDoTriangulo\obj\Debug\AreaDoTriangulo.exe
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\Aula07\AreaDoTriangulo\obj\Debug\AreaDoTriangulo.pdb

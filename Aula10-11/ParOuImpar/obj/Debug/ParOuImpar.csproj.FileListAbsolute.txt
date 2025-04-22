@@ -1,0 +1,7 @@
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\Aula10-11\ParOuImpar\bin\Debug\ParOuImpar.exe.config
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\Aula10-11\ParOuImpar\bin\Debug\ParOuImpar.exe
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\Aula10-11\ParOuImpar\bin\Debug\ParOuImpar.pdb
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\Aula10-11\ParOuImpar\obj\Debug\ParOuImpar.csproj.AssemblyReference.cache
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\Aula10-11\ParOuImpar\obj\Debug\ParOuImpar.csproj.CoreCompileInputs.cache
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\Aula10-11\ParOuImpar\obj\Debug\ParOuImpar.exe
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\Aula10-11\ParOuImpar\obj\Debug\ParOuImpar.pdb

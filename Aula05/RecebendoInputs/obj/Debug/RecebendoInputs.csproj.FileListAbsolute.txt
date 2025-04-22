@@ -1,0 +1,7 @@
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\Aula05\RecebendoInputs\bin\Debug\RecebendoInputs.exe.config
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\Aula05\RecebendoInputs\bin\Debug\RecebendoInputs.exe
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\Aula05\RecebendoInputs\bin\Debug\RecebendoInputs.pdb
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\Aula05\RecebendoInputs\obj\Debug\RecebendoInputs.csproj.AssemblyReference.cache
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\Aula05\RecebendoInputs\obj\Debug\RecebendoInputs.csproj.CoreCompileInputs.cache
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\Aula05\RecebendoInputs\obj\Debug\RecebendoInputs.exe
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\Aula05\RecebendoInputs\obj\Debug\RecebendoInputs.pdb

@@ -1,0 +1,7 @@
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\Aula12\MaiorNumero\bin\Debug\MaiorNumero.exe.config
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\Aula12\MaiorNumero\bin\Debug\MaiorNumero.exe
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\Aula12\MaiorNumero\bin\Debug\MaiorNumero.pdb
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\Aula12\MaiorNumero\obj\Debug\MaiorNumero.csproj.AssemblyReference.cache
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\Aula12\MaiorNumero\obj\Debug\MaiorNumero.csproj.CoreCompileInputs.cache
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\Aula12\MaiorNumero\obj\Debug\MaiorNumero.exe
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\Aula12\MaiorNumero\obj\Debug\MaiorNumero.pdb

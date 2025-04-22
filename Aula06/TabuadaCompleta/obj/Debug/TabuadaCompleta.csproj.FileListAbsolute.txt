@@ -1,0 +1,7 @@
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\Aula06\TabuadaCompleta\bin\Debug\TabuadaCompleta.exe.config
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\Aula06\TabuadaCompleta\bin\Debug\TabuadaCompleta.exe
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\Aula06\TabuadaCompleta\bin\Debug\TabuadaCompleta.pdb
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\Aula06\TabuadaCompleta\obj\Debug\TabuadaCompleta.csproj.AssemblyReference.cache
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\Aula06\TabuadaCompleta\obj\Debug\TabuadaCompleta.csproj.CoreCompileInputs.cache
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\Aula06\TabuadaCompleta\obj\Debug\TabuadaCompleta.exe
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\Aula06\TabuadaCompleta\obj\Debug\TabuadaCompleta.pdb
