@@ -1,0 +1,7 @@
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula16\TabuadaDefinitiva\bin\Debug\TabuadaDefinitiva.exe.config
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula16\TabuadaDefinitiva\bin\Debug\TabuadaDefinitiva.exe
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula16\TabuadaDefinitiva\bin\Debug\TabuadaDefinitiva.pdb
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula16\TabuadaDefinitiva\obj\Debug\TabuadaDefinitiva.csproj.AssemblyReference.cache
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula16\TabuadaDefinitiva\obj\Debug\TabuadaDefinitiva.csproj.CoreCompileInputs.cache
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula16\TabuadaDefinitiva\obj\Debug\TabuadaDefinitiva.exe
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula16\TabuadaDefinitiva\obj\Debug\TabuadaDefinitiva.pdb
