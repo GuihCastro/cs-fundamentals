@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programacao\\Cursos\\Udemy\\Unity Desenvolvedor de Jogos 2D e 3D\\aulas\\Aula14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7C99F1-C1D9-46A8-AA7B-A87B1CD9D539}|Emprestimo\\Emprestimo.csproj|d:\\programacao\\cursos\\udemy\\unity desenvolvedor de jogos 2d e 3d\\aulas\\aula14\\emprestimo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE7C99F1-C1D9-46A8-AA7B-A87B1CD9D539}|Emprestimo\\Emprestimo.csproj|solutionrelative:emprestimo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programacao\\Cursos\\Udemy\\Unity Desenvolvedor de Jogos 2D e 3D\\aulas\\Aula14\\Emprestimo\\Program.cs",
+              "RelativeDocumentMoniker": "Emprestimo\\Program.cs",
+              "ToolTip": "D:\\Programacao\\Cursos\\Udemy\\Unity Desenvolvedor de Jogos 2D e 3D\\aulas\\Aula14\\Emprestimo\\Program.cs",
+              "RelativeToolTip": "Emprestimo\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAvwCUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T12:25:50.824Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
