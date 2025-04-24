@@ -1,0 +1,7 @@
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula21\JogoDaAdivinhacao\bin\Debug\JogoDaAdivinhacao.exe.config
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula21\JogoDaAdivinhacao\bin\Debug\JogoDaAdivinhacao.exe
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula21\JogoDaAdivinhacao\bin\Debug\JogoDaAdivinhacao.pdb
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula21\JogoDaAdivinhacao\obj\Debug\JogoDaAdivinhacao.csproj.AssemblyReference.cache
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula21\JogoDaAdivinhacao\obj\Debug\JogoDaAdivinhacao.csproj.CoreCompileInputs.cache
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula21\JogoDaAdivinhacao\obj\Debug\JogoDaAdivinhacao.exe
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula21\JogoDaAdivinhacao\obj\Debug\JogoDaAdivinhacao.pdb

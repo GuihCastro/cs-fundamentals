@@ -1,0 +1,7 @@
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula20\VetorDeNomes\bin\Debug\VetorDeNomes.exe.config
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula20\VetorDeNomes\bin\Debug\VetorDeNomes.exe
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula20\VetorDeNomes\bin\Debug\VetorDeNomes.pdb
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula20\VetorDeNomes\obj\Debug\VetorDeNomes.csproj.AssemblyReference.cache
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula20\VetorDeNomes\obj\Debug\VetorDeNomes.csproj.CoreCompileInputs.cache
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula20\VetorDeNomes\obj\Debug\VetorDeNomes.exe
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula20\VetorDeNomes\obj\Debug\VetorDeNomes.pdb
