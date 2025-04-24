@@ -1,0 +1,7 @@
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula18-19\NumeroPrimoWhile\bin\Debug\NumeroPrimoWhile.exe.config
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula18-19\NumeroPrimoWhile\bin\Debug\NumeroPrimoWhile.exe
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula18-19\NumeroPrimoWhile\bin\Debug\NumeroPrimoWhile.pdb
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula18-19\NumeroPrimoWhile\obj\Debug\NumeroPrimoWhile.csproj.AssemblyReference.cache
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula18-19\NumeroPrimoWhile\obj\Debug\NumeroPrimoWhile.csproj.CoreCompileInputs.cache
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula18-19\NumeroPrimoWhile\obj\Debug\NumeroPrimoWhile.exe
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula18-19\NumeroPrimoWhile\obj\Debug\NumeroPrimoWhile.pdb
