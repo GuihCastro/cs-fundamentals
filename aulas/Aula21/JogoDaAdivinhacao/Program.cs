@@ -60,7 +60,7 @@ namespace JogoDaAdivinhacao
 
                 if (SimOuNao.ToLower() == "n")
                 {
-                    Console.WriteLine("\nObrigado por jogar!");
+                    Console.Write("\nObrigado por jogar! Pressione qualquer tecla para sair");
                     break;
                 }
 

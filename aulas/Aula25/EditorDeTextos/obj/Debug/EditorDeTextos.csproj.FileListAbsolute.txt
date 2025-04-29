@@ -1,0 +1,7 @@
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula25\EditorDeTextos\obj\Debug\EditorDeTextos.csproj.AssemblyReference.cache
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula25\EditorDeTextos\obj\Debug\EditorDeTextos.csproj.CoreCompileInputs.cache
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula25\EditorDeTextos\bin\Debug\EditorDeTextos.exe.config
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula25\EditorDeTextos\bin\Debug\EditorDeTextos.exe
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula25\EditorDeTextos\bin\Debug\EditorDeTextos.pdb
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula25\EditorDeTextos\obj\Debug\EditorDeTextos.exe
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula25\EditorDeTextos\obj\Debug\EditorDeTextos.pdb

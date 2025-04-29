@@ -1,0 +1,7 @@
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula23\FuncoesEMetodos\bin\Debug\FuncoesEMetodos.exe.config
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula23\FuncoesEMetodos\bin\Debug\FuncoesEMetodos.exe
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula23\FuncoesEMetodos\bin\Debug\FuncoesEMetodos.pdb
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula23\FuncoesEMetodos\obj\Debug\FuncoesEMetodos.csproj.AssemblyReference.cache
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula23\FuncoesEMetodos\obj\Debug\FuncoesEMetodos.csproj.CoreCompileInputs.cache
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula23\FuncoesEMetodos\obj\Debug\FuncoesEMetodos.exe
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula23\FuncoesEMetodos\obj\Debug\FuncoesEMetodos.pdb

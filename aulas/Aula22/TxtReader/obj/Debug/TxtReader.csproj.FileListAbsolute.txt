@@ -1,0 +1,7 @@
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula22\TxtReader\bin\Debug\TxtReader.exe.config
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula22\TxtReader\bin\Debug\TxtReader.exe
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula22\TxtReader\bin\Debug\TxtReader.pdb
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula22\TxtReader\obj\Debug\TxtReader.csproj.AssemblyReference.cache
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula22\TxtReader\obj\Debug\TxtReader.csproj.CoreCompileInputs.cache
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula22\TxtReader\obj\Debug\TxtReader.exe
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula22\TxtReader\obj\Debug\TxtReader.pdb

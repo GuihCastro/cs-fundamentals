@@ -1,0 +1,7 @@
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula24\SistemaMatematico\bin\Debug\SistemaMatematico.exe.config
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula24\SistemaMatematico\bin\Debug\SistemaMatematico.exe
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula24\SistemaMatematico\bin\Debug\SistemaMatematico.pdb
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula24\SistemaMatematico\obj\Debug\SistemaMatematico.csproj.AssemblyReference.cache
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula24\SistemaMatematico\obj\Debug\SistemaMatematico.csproj.CoreCompileInputs.cache
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula24\SistemaMatematico\obj\Debug\SistemaMatematico.exe
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\aulas\Aula24\SistemaMatematico\obj\Debug\SistemaMatematico.pdb
