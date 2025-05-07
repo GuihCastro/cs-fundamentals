@@ -1,0 +1,7 @@
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\poo\Aula01\PooMensagem\bin\Debug\PooMensagem.exe.config
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\poo\Aula01\PooMensagem\bin\Debug\PooMensagem.exe
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\poo\Aula01\PooMensagem\bin\Debug\PooMensagem.pdb
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\poo\Aula01\PooMensagem\obj\Debug\PooMensagem.csproj.AssemblyReference.cache
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\poo\Aula01\PooMensagem\obj\Debug\PooMensagem.csproj.CoreCompileInputs.cache
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\poo\Aula01\PooMensagem\obj\Debug\PooMensagem.exe
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\poo\Aula01\PooMensagem\obj\Debug\PooMensagem.pdb
