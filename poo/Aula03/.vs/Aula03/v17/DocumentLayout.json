@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programacao\\Cursos\\Udemy\\Unity Desenvolvedor de Jogos 2D e 3D\\poo\\Aula03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37947609-62BE-406F-A719-6D8A4C05943B}|PerguntaEResposta\\PerguntaEResposta.csproj|d:\\programacao\\cursos\\udemy\\unity desenvolvedor de jogos 2d e 3d\\poo\\aula03\\perguntaeresposta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37947609-62BE-406F-A719-6D8A4C05943B}|PerguntaEResposta\\PerguntaEResposta.csproj|solutionrelative:perguntaeresposta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37947609-62BE-406F-A719-6D8A4C05943B}|PerguntaEResposta\\PerguntaEResposta.csproj|d:\\programacao\\cursos\\udemy\\unity desenvolvedor de jogos 2d e 3d\\poo\\aula03\\perguntaeresposta\\perguntacomdica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37947609-62BE-406F-A719-6D8A4C05943B}|PerguntaEResposta\\PerguntaEResposta.csproj|solutionrelative:perguntaeresposta\\perguntacomdica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37947609-62BE-406F-A719-6D8A4C05943B}|PerguntaEResposta\\PerguntaEResposta.csproj|d:\\programacao\\cursos\\udemy\\unity desenvolvedor de jogos 2d e 3d\\poo\\aula03\\perguntaeresposta\\pergunta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37947609-62BE-406F-A719-6D8A4C05943B}|PerguntaEResposta\\PerguntaEResposta.csproj|solutionrelative:perguntaeresposta\\pergunta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PerguntaComDica.cs",
+              "DocumentMoniker": "D:\\Programacao\\Cursos\\Udemy\\Unity Desenvolvedor de Jogos 2D e 3D\\poo\\Aula03\\PerguntaEResposta\\PerguntaComDica.cs",
+              "RelativeDocumentMoniker": "PerguntaEResposta\\PerguntaComDica.cs",
+              "ToolTip": "D:\\Programacao\\Cursos\\Udemy\\Unity Desenvolvedor de Jogos 2D e 3D\\poo\\Aula03\\PerguntaEResposta\\PerguntaComDica.cs",
+              "RelativeToolTip": "PerguntaEResposta\\PerguntaComDica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T12:08:07.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pergunta.cs",
+              "DocumentMoniker": "D:\\Programacao\\Cursos\\Udemy\\Unity Desenvolvedor de Jogos 2D e 3D\\poo\\Aula03\\PerguntaEResposta\\Pergunta.cs",
+              "RelativeDocumentMoniker": "PerguntaEResposta\\Pergunta.cs",
+              "ToolTip": "D:\\Programacao\\Cursos\\Udemy\\Unity Desenvolvedor de Jogos 2D e 3D\\poo\\Aula03\\PerguntaEResposta\\Pergunta.cs",
+              "RelativeToolTip": "PerguntaEResposta\\Pergunta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T11:50:07.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programacao\\Cursos\\Udemy\\Unity Desenvolvedor de Jogos 2D e 3D\\poo\\Aula03\\PerguntaEResposta\\Program.cs",
+              "RelativeDocumentMoniker": "PerguntaEResposta\\Program.cs",
+              "ToolTip": "D:\\Programacao\\Cursos\\Udemy\\Unity Desenvolvedor de Jogos 2D e 3D\\poo\\Aula03\\PerguntaEResposta\\Program.cs",
+              "RelativeToolTip": "PerguntaEResposta\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA3wCAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T11:49:36.338Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
