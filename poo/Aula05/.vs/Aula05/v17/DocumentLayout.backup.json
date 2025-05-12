@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programacao\\Cursos\\Udemy\\Unity Desenvolvedor de Jogos 2D e 3D\\poo\\Aula05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58FC7989-3376-4B1A-8989-33E82E9761B1}|StaticMethod\\StaticMethod.csproj|d:\\programacao\\cursos\\udemy\\unity desenvolvedor de jogos 2d e 3d\\poo\\aula05\\staticmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58FC7989-3376-4B1A-8989-33E82E9761B1}|StaticMethod\\StaticMethod.csproj|solutionrelative:staticmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58FC7989-3376-4B1A-8989-33E82E9761B1}|StaticMethod\\StaticMethod.csproj|d:\\programacao\\cursos\\udemy\\unity desenvolvedor de jogos 2d e 3d\\poo\\aula05\\staticmethod\\ferramenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58FC7989-3376-4B1A-8989-33E82E9761B1}|StaticMethod\\StaticMethod.csproj|solutionrelative:staticmethod\\ferramenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58FC7989-3376-4B1A-8989-33E82E9761B1}|StaticMethod\\StaticMethod.csproj|d:\\programacao\\cursos\\udemy\\unity desenvolvedor de jogos 2d e 3d\\poo\\aula05\\staticmethod\\meuconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58FC7989-3376-4B1A-8989-33E82E9761B1}|StaticMethod\\StaticMethod.csproj|solutionrelative:staticmethod\\meuconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ferramenta.cs",
+              "DocumentMoniker": "D:\\Programacao\\Cursos\\Udemy\\Unity Desenvolvedor de Jogos 2D e 3D\\poo\\Aula05\\StaticMethod\\Ferramenta.cs",
+              "RelativeDocumentMoniker": "StaticMethod\\Ferramenta.cs",
+              "ToolTip": "D:\\Programacao\\Cursos\\Udemy\\Unity Desenvolvedor de Jogos 2D e 3D\\poo\\Aula05\\StaticMethod\\Ferramenta.cs",
+              "RelativeToolTip": "StaticMethod\\Ferramenta.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T12:32:02.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MeuConsole.cs",
+              "DocumentMoniker": "D:\\Programacao\\Cursos\\Udemy\\Unity Desenvolvedor de Jogos 2D e 3D\\poo\\Aula05\\StaticMethod\\MeuConsole.cs",
+              "RelativeDocumentMoniker": "StaticMethod\\MeuConsole.cs",
+              "ToolTip": "D:\\Programacao\\Cursos\\Udemy\\Unity Desenvolvedor de Jogos 2D e 3D\\poo\\Aula05\\StaticMethod\\MeuConsole.cs",
+              "RelativeToolTip": "StaticMethod\\MeuConsole.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA6wAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T12:26:55.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programacao\\Cursos\\Udemy\\Unity Desenvolvedor de Jogos 2D e 3D\\poo\\Aula05\\StaticMethod\\Program.cs",
+              "RelativeDocumentMoniker": "StaticMethod\\Program.cs",
+              "ToolTip": "D:\\Programacao\\Cursos\\Udemy\\Unity Desenvolvedor de Jogos 2D e 3D\\poo\\Aula05\\StaticMethod\\Program.cs",
+              "RelativeToolTip": "StaticMethod\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T12:26:38.413Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programacao\\Cursos\\Udemy\\Unity Desenvolvedor de Jogos 2D e 3D\\poo\\Aula04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{734A7E0C-BF5D-4D8F-9873-C90E51FF3A6F}|Destructors\\Destructors.csproj|d:\\programacao\\cursos\\udemy\\unity desenvolvedor de jogos 2d e 3d\\poo\\aula04\\destructors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734A7E0C-BF5D-4D8F-9873-C90E51FF3A6F}|Destructors\\Destructors.csproj|solutionrelative:destructors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734A7E0C-BF5D-4D8F-9873-C90E51FF3A6F}|Destructors\\Destructors.csproj|d:\\programacao\\cursos\\udemy\\unity desenvolvedor de jogos 2d e 3d\\poo\\aula04\\destructors\\tool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734A7E0C-BF5D-4D8F-9873-C90E51FF3A6F}|Destructors\\Destructors.csproj|solutionrelative:destructors\\tool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tool.cs",
+              "DocumentMoniker": "D:\\Programacao\\Cursos\\Udemy\\Unity Desenvolvedor de Jogos 2D e 3D\\poo\\Aula04\\Destructors\\Tool.cs",
+              "RelativeDocumentMoniker": "Destructors\\Tool.cs",
+              "ToolTip": "D:\\Programacao\\Cursos\\Udemy\\Unity Desenvolvedor de Jogos 2D e 3D\\poo\\Aula04\\Destructors\\Tool.cs",
+              "RelativeToolTip": "Destructors\\Tool.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T11:53:47.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programacao\\Cursos\\Udemy\\Unity Desenvolvedor de Jogos 2D e 3D\\poo\\Aula04\\Destructors\\Program.cs",
+              "RelativeDocumentMoniker": "Destructors\\Program.cs",
+              "ToolTip": "D:\\Programacao\\Cursos\\Udemy\\Unity Desenvolvedor de Jogos 2D e 3D\\poo\\Aula04\\Destructors\\Program.cs",
+              "RelativeToolTip": "Destructors\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T11:53:24.886Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

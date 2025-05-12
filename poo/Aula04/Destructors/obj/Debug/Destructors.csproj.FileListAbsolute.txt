@@ -1,0 +1,7 @@
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\poo\Aula04\Destructors\bin\Debug\Destructors.exe.config
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\poo\Aula04\Destructors\bin\Debug\Destructors.exe
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\poo\Aula04\Destructors\bin\Debug\Destructors.pdb
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\poo\Aula04\Destructors\obj\Debug\Destructors.csproj.AssemblyReference.cache
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\poo\Aula04\Destructors\obj\Debug\Destructors.csproj.CoreCompileInputs.cache
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\poo\Aula04\Destructors\obj\Debug\Destructors.exe
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\poo\Aula04\Destructors\obj\Debug\Destructors.pdb
