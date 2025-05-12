@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programacao\\Cursos\\Udemy\\Unity Desenvolvedor de Jogos 2D e 3D\\poo\\Aula06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D621CCBB-65FD-4172-8684-EF4910E1D0CA}|Polimorfismo\\Polimorfismo.csproj|d:\\programacao\\cursos\\udemy\\unity desenvolvedor de jogos 2d e 3d\\poo\\aula06\\polimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D621CCBB-65FD-4172-8684-EF4910E1D0CA}|Polimorfismo\\Polimorfismo.csproj|solutionrelative:polimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D621CCBB-65FD-4172-8684-EF4910E1D0CA}|Polimorfismo\\Polimorfismo.csproj|d:\\programacao\\cursos\\udemy\\unity desenvolvedor de jogos 2d e 3d\\poo\\aula06\\polimorfismo\\formageometrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D621CCBB-65FD-4172-8684-EF4910E1D0CA}|Polimorfismo\\Polimorfismo.csproj|solutionrelative:polimorfismo\\formageometrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D621CCBB-65FD-4172-8684-EF4910E1D0CA}|Polimorfismo\\Polimorfismo.csproj|d:\\programacao\\cursos\\udemy\\unity desenvolvedor de jogos 2d e 3d\\poo\\aula06\\polimorfismo\\quadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D621CCBB-65FD-4172-8684-EF4910E1D0CA}|Polimorfismo\\Polimorfismo.csproj|solutionrelative:polimorfismo\\quadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D621CCBB-65FD-4172-8684-EF4910E1D0CA}|Polimorfismo\\Polimorfismo.csproj|d:\\programacao\\cursos\\udemy\\unity desenvolvedor de jogos 2d e 3d\\poo\\aula06\\polimorfismo\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D621CCBB-65FD-4172-8684-EF4910E1D0CA}|Polimorfismo\\Polimorfismo.csproj|solutionrelative:polimorfismo\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "D:\\Programacao\\Cursos\\Udemy\\Unity Desenvolvedor de Jogos 2D e 3D\\poo\\Aula06\\Polimorfismo\\Triangulo.cs",
+              "RelativeDocumentMoniker": "Polimorfismo\\Triangulo.cs",
+              "ToolTip": "D:\\Programacao\\Cursos\\Udemy\\Unity Desenvolvedor de Jogos 2D e 3D\\poo\\Aula06\\Polimorfismo\\Triangulo.cs",
+              "RelativeToolTip": "Polimorfismo\\Triangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T22:49:45.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Quadrado.cs",
+              "DocumentMoniker": "D:\\Programacao\\Cursos\\Udemy\\Unity Desenvolvedor de Jogos 2D e 3D\\poo\\Aula06\\Polimorfismo\\Quadrado.cs",
+              "RelativeDocumentMoniker": "Polimorfismo\\Quadrado.cs",
+              "ToolTip": "D:\\Programacao\\Cursos\\Udemy\\Unity Desenvolvedor de Jogos 2D e 3D\\poo\\Aula06\\Polimorfismo\\Quadrado.cs",
+              "RelativeToolTip": "Polimorfismo\\Quadrado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T22:47:40.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormaGeometrica.cs",
+              "DocumentMoniker": "D:\\Programacao\\Cursos\\Udemy\\Unity Desenvolvedor de Jogos 2D e 3D\\poo\\Aula06\\Polimorfismo\\FormaGeometrica.cs",
+              "RelativeDocumentMoniker": "Polimorfismo\\FormaGeometrica.cs",
+              "ToolTip": "D:\\Programacao\\Cursos\\Udemy\\Unity Desenvolvedor de Jogos 2D e 3D\\poo\\Aula06\\Polimorfismo\\FormaGeometrica.cs",
+              "RelativeToolTip": "Polimorfismo\\FormaGeometrica.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T22:36:14.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programacao\\Cursos\\Udemy\\Unity Desenvolvedor de Jogos 2D e 3D\\poo\\Aula06\\Polimorfismo\\Program.cs",
+              "RelativeDocumentMoniker": "Polimorfismo\\Program.cs",
+              "ToolTip": "D:\\Programacao\\Cursos\\Udemy\\Unity Desenvolvedor de Jogos 2D e 3D\\poo\\Aula06\\Polimorfismo\\Program.cs",
+              "RelativeToolTip": "Polimorfismo\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T22:35:50.7Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
