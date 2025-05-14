@@ -1,0 +1,7 @@
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\poo\Nova pasta\Aula07\ControleDeMaterias\bin\Debug\ControleDeMaterias.exe.config
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\poo\Nova pasta\Aula07\ControleDeMaterias\bin\Debug\ControleDeMaterias.exe
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\poo\Nova pasta\Aula07\ControleDeMaterias\bin\Debug\ControleDeMaterias.pdb
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\poo\Nova pasta\Aula07\ControleDeMaterias\obj\Debug\ControleDeMaterias.csproj.AssemblyReference.cache
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\poo\Nova pasta\Aula07\ControleDeMaterias\obj\Debug\ControleDeMaterias.csproj.CoreCompileInputs.cache
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\poo\Nova pasta\Aula07\ControleDeMaterias\obj\Debug\ControleDeMaterias.exe
+D:\Programacao\Cursos\Udemy\Unity Desenvolvedor de Jogos 2D e 3D\poo\Nova pasta\Aula07\ControleDeMaterias\obj\Debug\ControleDeMaterias.pdb

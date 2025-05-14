@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleDeMaterias", "ControleDeMaterias\ControleDeMaterias.csproj", "{CACC0656-FE2A-45FA-A186-FE58D84C6952}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CACC0656-FE2A-45FA-A186-FE58D84C6952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CACC0656-FE2A-45FA-A186-FE58D84C6952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CACC0656-FE2A-45FA-A186-FE58D84C6952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CACC0656-FE2A-45FA-A186-FE58D84C6952}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4F7208D-C797-4985-869F-18C97AEA2ECA}
+	EndGlobalSection
+EndGlobal

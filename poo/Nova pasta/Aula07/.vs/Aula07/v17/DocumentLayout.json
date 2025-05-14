@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programacao\\Cursos\\Udemy\\Unity Desenvolvedor de Jogos 2D e 3D\\poo\\Nova pasta\\Aula07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CACC0656-FE2A-45FA-A186-FE58D84C6952}|ControleDeMaterias\\ControleDeMaterias.csproj|d:\\programacao\\cursos\\udemy\\unity desenvolvedor de jogos 2d e 3d\\poo\\nova pasta\\aula07\\controledematerias\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACC0656-FE2A-45FA-A186-FE58D84C6952}|ControleDeMaterias\\ControleDeMaterias.csproj|solutionrelative:controledematerias\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACC0656-FE2A-45FA-A186-FE58D84C6952}|ControleDeMaterias\\ControleDeMaterias.csproj|d:\\programacao\\cursos\\udemy\\unity desenvolvedor de jogos 2d e 3d\\poo\\nova pasta\\aula07\\controledematerias\\gerenciador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACC0656-FE2A-45FA-A186-FE58D84C6952}|ControleDeMaterias\\ControleDeMaterias.csproj|solutionrelative:controledematerias\\gerenciador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACC0656-FE2A-45FA-A186-FE58D84C6952}|ControleDeMaterias\\ControleDeMaterias.csproj|D:\\Programacao\\Cursos\\Udemy\\Unity Desenvolvedor de Jogos 2D e 3D\\poo\\Nova pasta\\Aula07\\controledematerias\\materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACC0656-FE2A-45FA-A186-FE58D84C6952}|ControleDeMaterias\\ControleDeMaterias.csproj|solutionrelative:controledematerias\\materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACC0656-FE2A-45FA-A186-FE58D84C6952}|ControleDeMaterias\\ControleDeMaterias.csproj|D:\\Programacao\\Cursos\\Udemy\\Unity Desenvolvedor de Jogos 2D e 3D\\poo\\Nova pasta\\Aula07\\controledematerias\\materiaabstrata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACC0656-FE2A-45FA-A186-FE58D84C6952}|ControleDeMaterias\\ControleDeMaterias.csproj|solutionrelative:controledematerias\\materiaabstrata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACC0656-FE2A-45FA-A186-FE58D84C6952}|ControleDeMaterias\\ControleDeMaterias.csproj|D:\\Programacao\\Cursos\\Udemy\\Unity Desenvolvedor de Jogos 2D e 3D\\poo\\Nova pasta\\Aula07\\controledematerias\\alunointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACC0656-FE2A-45FA-A186-FE58D84C6952}|ControleDeMaterias\\ControleDeMaterias.csproj|solutionrelative:controledematerias\\alunointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACC0656-FE2A-45FA-A186-FE58D84C6952}|ControleDeMaterias\\ControleDeMaterias.csproj|D:\\Programacao\\Cursos\\Udemy\\Unity Desenvolvedor de Jogos 2D e 3D\\poo\\Nova pasta\\Aula07\\controledematerias\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACC0656-FE2A-45FA-A186-FE58D84C6952}|ControleDeMaterias\\ControleDeMaterias.csproj|solutionrelative:controledematerias\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gerenciador.cs",
+              "DocumentMoniker": "D:\\Programacao\\Cursos\\Udemy\\Unity Desenvolvedor de Jogos 2D e 3D\\poo\\Nova pasta\\Aula07\\ControleDeMaterias\\Gerenciador.cs",
+              "RelativeDocumentMoniker": "ControleDeMaterias\\Gerenciador.cs",
+              "ToolTip": "D:\\Programacao\\Cursos\\Udemy\\Unity Desenvolvedor de Jogos 2D e 3D\\poo\\Nova pasta\\Aula07\\ControleDeMaterias\\Gerenciador.cs",
+              "RelativeToolTip": "ControleDeMaterias\\Gerenciador.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAiwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T23:15:36.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "D:\\Programacao\\Cursos\\Udemy\\Unity Desenvolvedor de Jogos 2D e 3D\\poo\\Nova pasta\\Aula07\\ControleDeMaterias\\Aluno.cs",
+              "RelativeDocumentMoniker": "ControleDeMaterias\\Aluno.cs",
+              "ToolTip": "D:\\Programacao\\Cursos\\Udemy\\Unity Desenvolvedor de Jogos 2D e 3D\\poo\\Nova pasta\\Aula07\\ControleDeMaterias\\Aluno.cs",
+              "RelativeToolTip": "ControleDeMaterias\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:31:09.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AlunoInterface.cs",
+              "DocumentMoniker": "D:\\Programacao\\Cursos\\Udemy\\Unity Desenvolvedor de Jogos 2D e 3D\\poo\\Nova pasta\\Aula07\\ControleDeMaterias\\AlunoInterface.cs",
+              "RelativeDocumentMoniker": "ControleDeMaterias\\AlunoInterface.cs",
+              "ToolTip": "D:\\Programacao\\Cursos\\Udemy\\Unity Desenvolvedor de Jogos 2D e 3D\\poo\\Nova pasta\\Aula07\\ControleDeMaterias\\AlunoInterface.cs",
+              "RelativeToolTip": "ControleDeMaterias\\AlunoInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:30:09.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Materia.cs",
+              "DocumentMoniker": "D:\\Programacao\\Cursos\\Udemy\\Unity Desenvolvedor de Jogos 2D e 3D\\poo\\Nova pasta\\Aula07\\ControleDeMaterias\\Materia.cs",
+              "RelativeDocumentMoniker": "ControleDeMaterias\\Materia.cs",
+              "ToolTip": "D:\\Programacao\\Cursos\\Udemy\\Unity Desenvolvedor de Jogos 2D e 3D\\poo\\Nova pasta\\Aula07\\ControleDeMaterias\\Materia.cs",
+              "RelativeToolTip": "ControleDeMaterias\\Materia.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwCUAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:18:49.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MateriaAbstrata.cs",
+              "DocumentMoniker": "D:\\Programacao\\Cursos\\Udemy\\Unity Desenvolvedor de Jogos 2D e 3D\\poo\\Nova pasta\\Aula07\\ControleDeMaterias\\MateriaAbstrata.cs",
+              "RelativeDocumentMoniker": "ControleDeMaterias\\MateriaAbstrata.cs",
+              "ToolTip": "D:\\Programacao\\Cursos\\Udemy\\Unity Desenvolvedor de Jogos 2D e 3D\\poo\\Nova pasta\\Aula07\\ControleDeMaterias\\MateriaAbstrata.cs",
+              "RelativeToolTip": "ControleDeMaterias\\MateriaAbstrata.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:16:30.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programacao\\Cursos\\Udemy\\Unity Desenvolvedor de Jogos 2D e 3D\\poo\\Nova pasta\\Aula07\\ControleDeMaterias\\Program.cs",
+              "RelativeDocumentMoniker": "ControleDeMaterias\\Program.cs",
+              "ToolTip": "D:\\Programacao\\Cursos\\Udemy\\Unity Desenvolvedor de Jogos 2D e 3D\\poo\\Nova pasta\\Aula07\\ControleDeMaterias\\Program.cs",
+              "RelativeToolTip": "ControleDeMaterias\\Program.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAA1wEwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:15:42.035Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
